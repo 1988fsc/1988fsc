@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-<a href = "mailto:msn.box@outlook.com"><img src="https://img.icons8.com/?size=48&id=WnHyYA2ecNqL&format=png"></a>
+<a href = "mailto:msn.box@outlook.com"><img src="https://img.icons8.com/?size=48&id=WnHyYA2ecNqL&format=png"></a>  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/1988fsc/) 
 
 
